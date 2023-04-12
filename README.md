@@ -1,11 +1,11 @@
-About hcloud
-============
+About hcloud-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hcloud-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/hetznercloud/hcloud-python
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hcloud-feedstock/blob/main/LICENSE.txt)
 
 Summary: hcloud-python is a library for the Hetzner Cloud API
 
