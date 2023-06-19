@@ -1,5 +1,5 @@
 {% set name = "hcloud" %}
-{% set version = "1.20.0" %}
+{% set version = "1.21.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/hcloud-{{ version }}.tar.gz
-  sha256: b389770d974a7f20b512edcfc0b40742975c230e32bc4511c518e0c4995a5ec8
+  sha256: 1d503fcb7c2c9a16a7c0f6a0556e8c0850d3e26f98b81231b49f0a00892a0950
 
 build:
   number: 0
